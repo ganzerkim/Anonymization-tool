@@ -1,2 +1,2 @@
 # Anonymization-tool
-Anonymization tool for cohort study
+Anonymization tool for multi-center study
